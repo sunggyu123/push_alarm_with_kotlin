@@ -45,4 +45,8 @@ Add textIsSelectable = true (copy function)
 
 # 05 Result.
 
+알람 Normal , Expandable , custom 순서
+
 ![Hnet-image](https://user-images.githubusercontent.com/72656002/153744671-2f887367-da46-4ffe-ab5f-93a1f1b66613.gif)
+![Hnet-image (1)](https://user-images.githubusercontent.com/72656002/153744855-3383a8be-3357-4d0d-8c39-cd1edaa0c294.gif)
+
