@@ -45,3 +45,4 @@ Add textIsSelectable = true (copy function)
 
 # 05 Result.
 
+![Hnet-image](https://user-images.githubusercontent.com/72656002/153744671-2f887367-da46-4ffe-ab5f-93a1f1b66613.gif)
